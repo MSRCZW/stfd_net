@@ -4,4 +4,4 @@ The dataset originates from the PYSKL project. You can refer [Here](https://gith
 
 ## Requirement
 
-All the necessary dependencies for this project are specified in the `requirements.txt` file.
+All the necessary dependencies for this project are specified in the `requirement.txt` file.
